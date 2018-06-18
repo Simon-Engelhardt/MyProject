@@ -1,1 +1,3 @@
-window.alert("Mein erstes Popup")
+function popup() {
+    window.alert("Mein erstes Popup")
+}
