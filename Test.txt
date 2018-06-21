@@ -1,2 +1,2 @@
 Hello World
-https://github.com/Simon-Engelhardt/MyProject.git
+https://github.com/Simon-Engelhardt/MyProject.github
